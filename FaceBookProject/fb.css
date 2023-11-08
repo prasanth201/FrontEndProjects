@@ -1,0 +1,67 @@
+body{
+    margin: auto;
+    background-color:rgb(243, 240, 240);
+    /* background-image: url(src/bn3.jpg); */
+}
+img{
+    width:  260px;
+    display: block;
+    margin-right: auto ;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.faceBook{
+    width: 440px;
+    height: 335px;
+    margin:0px auto ;
+    background-color:white;
+    font-family:arial;
+    padding:5px 5px;
+    box-shadow: 0px 0px 7px rgb(170, 169, 169);
+    border-radius: 8px;
+    text-align: center;
+    color: rgb(73, 67, 67);
+}
+input{
+    width: 390px;
+    height: 35px;
+padding: 12px;
+    border: 1px solid rgb(209, 204, 204);
+    border-radius: 8px;
+   font-size: large;
+   margin-bottom: 10px;
+
+}
+
+button{
+    width: 410px;
+    height: 50px;
+    font-size: larger;
+    font-weight: 700;
+    border-radius:8px ;
+    padding: 12px 20px;
+    background-color:rgb(19, 111, 231);
+    border-color: rgb(24, 107, 231); 
+    border: 100px;
+    color:aliceblue;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    
+    
+    
+}
+
+button:hover{
+    background-color:rgb(26, 72, 199);
+} 
+
+#ln1 {
+margin: 19px;
+}
+a{
+    color: rgb(68, 68, 247);
+}
+
+
